@@ -5,8 +5,8 @@ begin
   require 'jeweler'
   Jeweler::Tasks.new do |gem|
     gem.name = "open-repo"
-    gem.summary = %Q{TODO: one-line summary of your gem}
-    gem.description = %Q{TODO: longer description of your gem}
+    gem.summary = %Q{handle repository directory and file}
+    gem.description = %Q{support: mercurial and subversion}
     gem.email = "ohachige@gmail.com"
     gem.homepage = "http://github.com/ohac/open-repo"
     gem.authors = ["OHASHI Hideya"]

@@ -1,0 +1,1 @@
+require 'open-repo/mercurial'
